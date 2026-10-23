@@ -1,4 +1,4 @@
-# Identifying-Logistics-Leakage-by-Region
+# Free Shipping Logistics Analysis
 Business Problem: The supplement eCommerce brand offers free shipping, but shipping supplements can be expensive. Some states might be "profit-killers."
 
 I needed to identify where the brand was losing money on its 'Free Shipping' offer.
