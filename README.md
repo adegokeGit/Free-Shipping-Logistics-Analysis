@@ -4,7 +4,7 @@
 
 #### Objective
 
-This objective I aimed to achieve was to identify which states carry disproportionately high logistics costs under an eCommerce brand’s free shipping offer, compared with other state
+The objective I aimed to achieve was to identify which states carry disproportionately high logistics costs under an eCommerce brand’s free shipping offer, compared with other state.
 
 #### Results
 
@@ -20,13 +20,13 @@ This objective I aimed to achieve was to identify which states carry disproporti
 - Average: 60.36%
 - Lowest: 53.22%
 
-**Key finding:** Fulfillment costs follow a clear geographic pattern. High-volume states such as Lagos operate efficiently, with delivery costs below the 16% national average. Cross River, Ebonyi and Katsina exceed 20%, and Northwest and Southeast states generally sit above the 16% national average.
+### Key Finding
+
+Fulfillment costs follow a clear geographic pattern. High-volume states such as Lagos operate efficiently, with delivery costs below the 16% national average. Cross River, Ebonyi and Katsina exceed 20%, and Northwest and Southeast states generally sit above the 16% national average.
 
 #### Conclusion
 
 I recommend introducing **regional minimum order values** only in the low-efficiency zones that need them, rather than applying a blanket policy nationwide. Bringing these states to or below the 16% national average could lift the total average net margin by a projected **1.2 percentage points**.
-
-I also recommend 
 
 #### Technical Review
 
