@@ -26,7 +26,7 @@ Fulfillment costs follow a clear geographic pattern. High-volume states such as 
 
 #### Conclusion
 
-I recommend introducing **regional minimum order values** only in the low-efficiency zones that need them, rather than applying a blanket policy nationwide. Bringing these states to or below the 16% national average could lift the total average net margin by a projected **1.2 percentage points**.
+I recommend introducing **regional minimum order values** only in the low-efficiency zones that need them, rather than applying a blanket policy nationwide. Bringing these states to or below the 16% national average could lift the total average gross margin by a projected **1.2 percentage points**.
 
 #### Technical Review
 
